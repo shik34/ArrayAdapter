@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="forbes">
+    <item>Bill Gates</item>
+    <item>Warren Buffett</item>
+    <item>Jeff Bezos</item>
+    <item>Amancio Ortega</item>
+    <item>1 Mark Zuckerberg</item>
+    <item>2 Mark Zuckerberg</item>
+    <item>3 Mark Zuckerberg</item>
+    <item>4 Mark Zuckerberg</item>
+    <item>5 Mark Zuckerberg</item>
+    <item>6 Mark Zuckerberg</item>
+    <item>7 Mark Zuckerberg</item>
+    <item>8 Mark Zuckerberg</item>
+    <item>9 Mark Zuckerberg</item>
+    </string-array>
+</resources>
